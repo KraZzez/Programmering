@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	cout << "Kod på två nya rader" << endl;
-	cout << "rad";
+	cout << "raden";
 	cout << endl;
 	
 	// cout är standard utenhet, skärmen
