@@ -6,6 +6,6 @@ int main()
 	// "-tecknet används för att
 	// visa var strängen börjar
 	// och var den slutar
-	cout << "\"To be or not to be, that is the question\"";
+	cout << "\"To be or not to be, that is the question\"" << endl;
      return 0;	
 }

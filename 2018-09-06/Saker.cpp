@@ -17,6 +17,11 @@ int main()
 	f1 = (f1 * 2);
 	cout << f1 << endl;
     cout << "f1 = " << f1 << endl;
+    //inmantning
+    int heltal1;
+    cin >> heltal1;
+    cout << heltal1 << endl;
+    //exempel 2.2 sidan 27
 	return 0;
 
 }
