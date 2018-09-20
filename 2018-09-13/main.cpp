@@ -22,7 +22,8 @@ int main()
 	cout << tecken1 << endl;
 	
 	//Men, du kan deklarera en KONSTANT också
-	const int PI = 3.1415; // Går inte att ändra
+	const float PI = 3.1415; // Går inte att ändra
+	cout << PI << endl;
 	// Flyttals varibler (decimaltal)
 	cout << "Storlek på float " << sizeof(float) << endl;
 	cout << "Storlek på double " << sizeof(double) << endl;
