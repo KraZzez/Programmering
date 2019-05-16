@@ -30,7 +30,8 @@ void celsius() {
 	double celsiustal;
 	cin >> celsiustal;
 	celsiustal=celsiustal*1.8+32;
-	cout << celsiustal << endl << endl;
+	cout << celsiustal << endl << endl
+	;
 	meny();
 }
 void fahrenheit() {
